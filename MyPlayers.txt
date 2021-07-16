@@ -1,0 +1,5 @@
+
+BasketballPlayers: Name=Vlade, Surname=Divac, Nickname=no, Team=Sacramento, Height=210 cm, Age=52 years, Number=12
+BasketballPlayers: Name=James, Surname=Lebron, Nickname=no, Team=Lakers, Height=205 cm, Age=23 years, Number=21
+BasketballPlayers: Name=Boby, Surname=Marianovic, Nickname=Boby, Team=Toronto, Height=225 cm, Age=31 years, Number=21
+BasketballPlayers: Name=Marko, Surname=Djuric, Nickname=Mare, Team=FMP, Height=187 cm, Age=19 years, Number=8
